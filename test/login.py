@@ -6,5 +6,3 @@ num5 = 500
 num6 = 600
 manager = 700
 wangwu = 700
-
-
