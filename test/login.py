@@ -4,6 +4,7 @@ num3 = 30
 num4 = 40
 num5 = 500
 num6 = 600
-wangwu = 700
 manager = 700
+wangwu = 700
+
 
